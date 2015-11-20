@@ -1,6 +1,12 @@
 Projekt: Low-Cost Sumo Robot (loco suro)
 Johannes Bade & Moritz Obermann
-Ziel des Projekts „loco suro“ ist es, einen kostengünstigen (ca. 20€) Roboter für Kinder und Jugendliche zu entwickeln, die damit Robo-Sumo Wettkämpfe austragen können. Der Roboter soll für die Mini-Sumo-Klasse (max. 10x10cm Grundfläche, bis 500g) geeignet sein.
-Das Chassis kann mit 3D-Druckern hergestellt werden, die Steuerung wird mit einem Arduino realisiert. Wünschenswert wäre ein erweiterbares Chassis, z.B. als Stecksystem um Erweiterungen (weitere Sensoren, Schilde) zu Unterstützen. Hier bietet sich außerdem eine parametrische Modellierung an, um den Anwendern schon vor dem Druck verschiedene Anpassungsmöglichkeiten zu bieten. Ein wichtiger Aspekt ist die Stabilität der gedruckten Teile, da diese im Wettkampf teils stark beansprucht werden können.
+Ziel des Projekts „loco suro“ ist es, einen kostengünstigen (ca. 20€) Roboter für Kinder und Jugendliche zu entwickeln,
+die damit Robo-Sumo Wettkämpfe austragen können.
+Der Roboter soll für die Mini-Sumo-Klasse (max. 10x10cm Grundfläche, bis 500g) geeignet sein
+und für die Anwender möglichst einfach (per Grafikblöcken) selbst zu programmieren sein.
+Das Chassis kann mit 3D-Druckern hergestellt werden, die Steuerung wird mit einem Arduino realisiert.
+Wünschenswert wäre ein erweiterbares Chassis, z.B. als Stecksystem um Erweiterungen (weitere Sensoren, Schilde) zu Unterstützen.
+Hier bietet sich außerdem eine parametrische Modellierung an, um den Anwendern schon vor dem Druck verschiedene Anpassungsmöglichkeiten zu bieten.
+Ein wichtiger Aspekt ist die Stabilität der gedruckten Teile, da diese im Wettkampf teils stark beansprucht werden können.
 
 
